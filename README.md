@@ -16,6 +16,7 @@ To attempt Base64 decoding, pass the -Decode parameter, and the program will do 
 GetStoredCredentials [OPTIONS]
 
 Options:
+
 -Decode
     Attempts to Base64 decode the password value prior to printing it to the console. -ShowPasswords must also be set!
 
